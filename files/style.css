@@ -803,15 +803,15 @@ body {
 
 .top i{
     color: black;
-    background: #0ef;
+    background: rgb(197, 0, 0);
     font-size: 20px;
     padding: 10px;
     border-radius: 0.5rem;
 }
 
 .top i:hover {
-    box-shadow: 0 0 5px cyan,
-    0 0 25px cyan, 0 0 50px cyan,0 0 200px cyan;
+    box-shadow: 0 0 5px rgb(255, 255, 255),
+    0 0 25px rgb(255, 255, 255), 0 0 50px rgb(255, 255, 255),0 0 200px rgb(255, 255, 255);
 }
 
 
